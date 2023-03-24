@@ -1,3 +1,4 @@
+
 .introduction_ChocoPizza {
     display: flex;
     justify-content: space-between;
@@ -35,4 +36,24 @@
 
 .print_Title_Text {
     font-size: 10px;
+}
+
+.chocolate_Pizza_MainBody {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.chocolate_Pizza_MainBody_Image {
+    width: 960px;
+    margin: 0px auto;
+    
+}
+
+.chocolate_Pizza_MainBody_Text {
+    width: 960px;
+    margin: 0px auto;
+    text-indent: 30px;
+    padding-top: 30px;
 }
