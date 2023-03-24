@@ -1,4 +1,10 @@
 
+.Page {
+    width: 960px;
+    margin: 0 auto;
+}
+
+
 .introduction_ChocoPizza {
     display: flex;
     justify-content: space-between;
@@ -46,14 +52,18 @@
 }
 
 .chocolate_Pizza_MainBody_Image {
-    width: 960px;
-    margin: 0px auto;
+    padding-top: 30px;
     
 }
 
 .chocolate_Pizza_MainBody_Text {
-    width: 960px;
-    margin: 0px auto;
     text-indent: 30px;
     padding-top: 30px;
+}
+
+.chocolate_Pizza_Recipe {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+    background-image: url("images/list-bg.png");
 }
