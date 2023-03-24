@@ -1,11 +1,12 @@
 .introduction_ChocoPizza {
     display: flex;
+    justify-content: space-between;
 
 }
 
 .pizza_Time{
     display: flex;
-    justify-content: space-between;
+    
 }
 
 .sub_Title {
@@ -16,6 +17,22 @@
 
 .navigation_Links {
     display: flex;
-    justify-content: space-between;
     
+}
+.chocolate_Pizza_BodyTitle{
+    display: flex;
+    justify-content: space-between;
+}
+
+.print_Title {
+    display: flex;
+}
+
+.print_Title_Logo {
+    height: 10px;
+    width: 10px;
+}
+
+.print_Title_Text {
+    font-size: 10px;
 }
