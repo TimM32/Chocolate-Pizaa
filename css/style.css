@@ -5,6 +5,7 @@
 
 .pizza_Time{
     display: flex;
+    justify-content: space-between;
 }
 
 .sub_Title {
@@ -15,5 +16,6 @@
 
 .navigation_Links {
     display: flex;
+    justify-content: space-between;
     
 }
