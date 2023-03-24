@@ -1,0 +1,19 @@
+.introduction_ChocoPizza {
+    display: flex;
+
+}
+
+.pizza_Time{
+    display: flex;
+}
+
+.sub_Title {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.navigation_Links {
+    display: flex;
+    
+}
