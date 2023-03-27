@@ -11,6 +11,11 @@
 
 }
 
+.header_Divider {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .pizza_Time{
     display: flex;
     
@@ -65,5 +70,10 @@
     display: flex;
     padding-top: 20px;
     justify-content: space-between;
-    background-image: url("images/list-bg.png");
+    background-image: url("../images/list-bg.png");
 }
+
+.chocolate_pizza_divider {
+    padding-top: 20px;
+}
+
