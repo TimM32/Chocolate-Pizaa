@@ -93,5 +93,36 @@
 .button_share {
     background-color: red;
     color: aliceblue;
-    
+
+}
+
+
+
+.pizza_footer {
+   height: 150px;
+}
+
+.image_footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.image_footer_divider {
+    width: 100%;
+    flex-grow: 1;
+    opacity: 0.2;
+    border-bottom: 1px solid black;
+}
+
+.image_footer_logo {
+    margin: 5px;
+}
+
+.text_footer {
+    text-align: center;
+    width: 250px;
+    margin: 25px auto;
+
 }
