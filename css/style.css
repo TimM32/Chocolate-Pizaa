@@ -77,3 +77,21 @@
     padding-top: 20px;
 }
 
+.van {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.van_image_text {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}
+
+.button_share {
+    background-color: red;
+    color: aliceblue;
+    
+}
